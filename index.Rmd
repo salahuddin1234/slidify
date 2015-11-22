@@ -1,0 +1,38 @@
+---
+title       : My first shiny app
+subtitle    : Support vector machine on mtcars
+author      : Salah Uddin
+job         : Data 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+* Hello I am salah Uddin and I worte the following program to assess the mtcars data
+* This data was used in Regression modeling
+
+--- .class #id 
+
+* I am trying to predict miles per gallong mpg and Displacement 
+* Using reactive with support vector machine to fit the model
+
+---
+
+
+
+* I didnt; used any widgets because they were not of any need. 
+
+---
+
+The End
+
+---
+
+
+
+
+
+
